@@ -13,5 +13,9 @@ A CSV file listing the initial 64 teams in the following format
 ```
 The list of teams must be in order such that `team1` is playing `team2` in the round of 64, and the winner of `team1` and `team2` will play the winner of `team3` vs `team4`, etc.
 
+[for example](https://github.com/avangerp/march_madness_predictor/blob/main/bracket2024.csv)
+
 ### Output
 a .txt file that walks through which team was chosen in each matchup and why
+
+[for example](https://github.com/avangerp/march_madness_predictor/blob/main/my_bracket2024.txt)
