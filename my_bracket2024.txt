@@ -1,0 +1,345 @@
+######### ROUND OF 64 #########
+
+#1 UConn plays #16 Stetson
+seed weight: -27.3861
+random integer (0-100): 86
+since 86 > 22.6139 #1 UConn wins
+
+#8 FAU plays #9 Northwestern
+seed weight: -7.0711
+random integer (0-100): 52
+since 52 > 42.9289 #8 FAU wins
+
+#5 San Diego St plays #12 UAB
+seed weight: -18.7083
+random integer (0-100): 23
+since 23 < 31.2917 #12 UAB wins
+
+#4 Auburn plays #13 Yale
+seed weight: -21.2132
+random integer (0-100): 65
+since 65 > 28.7868 #4 Auburn wins
+
+#6 BYU plays #11 Duquesne
+seed weight: -15.8114
+random integer (0-100): 90
+since 90 > 34.1886 #6 BYU wins
+
+#3 Illinois plays #14 Morehead St
+seed weight: -23.4521
+random integer (0-100): 60
+since 60 > 26.5479 #3 Illinois wins
+
+#7 Washington St plays #10 Drake
+seed weight: -12.2474
+random integer (0-100): 20
+since 20 < 37.7526 #10 Drake wins
+
+#2 Iowa St plays #15 South Dakota St
+seed weight: -25.4951
+random integer (0-100): 18
+since 18 < 24.5049 #15 South Dakota St wins
+
+#1 North Carolina plays #16 Howard/Wagner
+seed weight: -27.3861
+random integer (0-100): 52
+since 52 > 22.6139 #1 North Carolina wins
+
+#8 Mississippi St plays #9 Michigan St
+seed weight: -7.0711
+random integer (0-100): 4
+since 4 < 42.9289 #9 Michigan St wins
+
+#5 Saint Marys plays #12 Grand Canyon
+seed weight: -18.7083
+random integer (0-100): 0
+since 0 < 31.2917 #12 Grand Canyon wins
+
+#4 Alabama plays #13 Charleston
+seed weight: -21.2132
+random integer (0-100): 87
+since 87 > 28.7868 #4 Alabama wins
+
+#6 Clemson plays #11 New Mexico
+seed weight: -15.8114
+random integer (0-100): 77
+since 77 > 34.1886 #6 Clemson wins
+
+#3 Baylor plays #14 Colgate
+seed weight: -23.4521
+random integer (0-100): 70
+since 70 > 26.5479 #3 Baylor wins
+
+#7 Dayton plays #10 Nevada
+seed weight: -12.2474
+random integer (0-100): 5
+since 5 < 37.7526 #10 Nevada wins
+
+#2 Arizona plays #15 Long Beach St
+seed weight: -25.4951
+random integer (0-100): 76
+since 76 > 24.5049 #2 Arizona wins
+
+#1 Houston plays #16 Longwood
+seed weight: -27.3861
+random integer (0-100): 12
+since 12 < 22.6139 #16 Longwood wins
+
+#8 Nebraska plays #9 Texas A&M
+seed weight: -7.0711
+random integer (0-100): 91
+since 91 > 42.9289 #8 Nebraska wins
+
+#5 Wisconsin plays #12 James Madison
+seed weight: -18.7083
+random integer (0-100): 8
+since 8 < 31.2917 #12 James Madison wins
+
+#4 Duke plays #13 Vermont
+seed weight: -21.2132
+random integer (0-100): 47
+since 47 > 28.7868 #4 Duke wins
+
+#6 Texas Tech plays #11 NC State
+seed weight: -15.8114
+random integer (0-100): 77
+since 77 > 34.1886 #6 Texas Tech wins
+
+#3 Kentucky plays #14 Oakland
+seed weight: -23.4521
+random integer (0-100): 1
+since 1 < 26.5479 #14 Oakland wins
+
+#7 Florida plays #10 Colorado/Boise
+seed weight: -12.2474
+random integer (0-100): 2
+since 2 < 37.7526 #10 Colorado/Boise wins
+
+#2 Marquette plays #15 Western Ky
+seed weight: -25.4951
+random integer (0-100): 63
+since 63 > 24.5049 #2 Marquette wins
+
+#1 Purdue plays #16 Grambling/Montana
+seed weight: -27.3861
+random integer (0-100): 20
+since 20 < 22.6139 #16 Grambling/Montana wins
+
+#8 Utah St plays #9 TCU
+seed weight: -7.0711
+random integer (0-100): 11
+since 11 < 42.9289 #9 TCU wins
+
+#5 Gonzaga plays #12 McNeese
+seed weight: -18.7083
+random integer (0-100): 44
+since 44 > 31.2917 #5 Gonzaga wins
+
+#4 Kansas plays #13 Samford
+seed weight: -21.2132
+random integer (0-100): 18
+since 18 < 28.7868 #13 Samford wins
+
+#6 South Carolina plays #11 Oregon
+seed weight: -15.8114
+random integer (0-100): 93
+since 93 > 34.1886 #6 South Carolina wins
+
+#3 Creighton plays #14 Akron
+seed weight: -23.4521
+random integer (0-100): 2
+since 2 < 26.5479 #14 Akron wins
+
+#7 Texas plays #10 Colorado St/Virginia
+seed weight: -12.2474
+random integer (0-100): 43
+since 43 > 37.7526 #7 Texas wins
+
+#2 Tennessee plays #15 Saint Peters
+seed weight: -25.4951
+random integer (0-100): 78
+since 78 > 24.5049 #2 Tennessee wins
+
+
+
+
+######### ROUND OF 32 #########
+
+#1 UConn plays #8 FAU
+seed weight: -18.7083
+random integer (0-100): 14
+since 14 < 31.2917 #8 FAU wins
+
+#12 UAB plays #4 Auburn
+seed weight: 20.0000
+random integer (0-100): 72
+since 72 > 70.0000 #12 UAB wins
+
+#6 BYU plays #3 Illinois
+seed weight: 12.2474
+random integer (0-100): 25
+since 25 < 62.2474 #3 Illinois wins
+
+#10 Drake plays #15 South Dakota St
+seed weight: -15.8114
+random integer (0-100): 7
+since 7 < 34.1886 #15 South Dakota St wins
+
+#1 North Carolina plays #9 Michigan St
+seed weight: -20.0000
+random integer (0-100): 87
+since 87 > 30.0000 #1 North Carolina wins
+
+#12 Grand Canyon plays #4 Alabama
+seed weight: 20.0000
+random integer (0-100): 38
+since 38 < 70.0000 #4 Alabama wins
+
+#6 Clemson plays #3 Baylor
+seed weight: 12.2474
+random integer (0-100): 44
+since 44 < 62.2474 #3 Baylor wins
+
+#10 Nevada plays #2 Arizona
+seed weight: 20.0000
+random integer (0-100): 77
+since 77 > 70.0000 #10 Nevada wins
+
+#16 Longwood plays #8 Nebraska
+seed weight: 20.0000
+random integer (0-100): 43
+since 43 < 70.0000 #8 Nebraska wins
+
+#12 James Madison plays #4 Duke
+seed weight: 20.0000
+random integer (0-100): 76
+since 76 > 70.0000 #12 James Madison wins
+
+#6 Texas Tech plays #14 Oakland
+seed weight: -20.0000
+random integer (0-100): 2
+since 2 < 30.0000 #14 Oakland wins
+
+#10 Colorado/Boise plays #2 Marquette
+seed weight: 20.0000
+random integer (0-100): 41
+since 41 < 70.0000 #2 Marquette wins
+
+#16 Grambling/Montana plays #9 TCU
+seed weight: 18.7083
+random integer (0-100): 93
+since 93 > 68.7083 #16 Grambling/Montana wins
+
+#5 Gonzaga plays #13 Samford
+seed weight: -20.0000
+random integer (0-100): 67
+since 67 > 30.0000 #5 Gonzaga wins
+
+#6 South Carolina plays #14 Akron
+seed weight: -20.0000
+random integer (0-100): 17
+since 17 < 30.0000 #14 Akron wins
+
+#7 Texas plays #2 Tennessee
+seed weight: 15.8114
+random integer (0-100): 61
+since 61 < 65.8114 #2 Tennessee wins
+
+
+
+
+######### ROUND OF 16 #########
+
+#8 FAU plays #12 UAB
+seed weight: -14.1421
+random integer (0-100): 71
+since 71 > 35.8579 #8 FAU wins
+
+#3 Illinois plays #15 South Dakota St
+seed weight: -24.4949
+random integer (0-100): 69
+since 69 > 25.5051 #3 Illinois wins
+
+#1 North Carolina plays #4 Alabama
+seed weight: -12.2474
+random integer (0-100): 3
+since 3 < 37.7526 #4 Alabama wins
+
+#3 Baylor plays #10 Nevada
+seed weight: -18.7083
+random integer (0-100): 43
+since 43 > 31.2917 #3 Baylor wins
+
+#8 Nebraska plays #12 James Madison
+seed weight: -14.1421
+random integer (0-100): 53
+since 53 > 35.8579 #8 Nebraska wins
+
+#14 Oakland plays #2 Marquette
+seed weight: 24.4949
+random integer (0-100): 21
+since 21 < 74.4949 #2 Marquette wins
+
+#16 Grambling/Montana plays #5 Gonzaga
+seed weight: 23.4521
+random integer (0-100): 36
+since 36 < 73.4521 #5 Gonzaga wins
+
+#14 Akron plays #2 Tennessee
+seed weight: 24.4949
+random integer (0-100): 50
+since 50 < 74.4949 #2 Tennessee wins
+
+
+
+
+######### ROUND OF 8 #########
+
+#8 FAU plays #3 Illinois
+seed weight: 15.8114
+random integer (0-100): 22
+since 22 < 65.8114 #3 Illinois wins
+
+#4 Alabama plays #3 Baylor
+seed weight: 7.0711
+random integer (0-100): 25
+since 25 < 57.0711 #3 Baylor wins
+
+#8 Nebraska plays #2 Marquette
+seed weight: 17.3205
+random integer (0-100): 66
+since 66 < 67.3205 #2 Marquette wins
+
+#5 Gonzaga plays #2 Tennessee
+seed weight: 12.2474
+random integer (0-100): 92
+since 92 > 62.2474 #5 Gonzaga wins
+
+
+
+
+######### ROUND OF 4 #########
+
+#3 Illinois plays #3 Baylor
+seed weight: 0.0000
+random integer (0-100): 65
+since 65 > 50.0000 #3 Illinois wins
+
+#2 Marquette plays #5 Gonzaga
+seed weight: -12.2474
+random integer (0-100): 12
+since 12 < 37.7526 #5 Gonzaga wins
+
+
+
+
+######### ROUND OF 2 #########
+
+#3 Illinois plays #5 Gonzaga
+seed weight: -10.0000
+random integer (0-100): 27
+since 27 < 40.0000 #5 Gonzaga wins
+
+
+
+
